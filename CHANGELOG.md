@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.1](https://github.com/iceman3k/unifi-ddns/compare/v3.4.0...v3.4.1) (2026-10-31)
+
+
+### Bug Fixes
+
+* **deps:** update all dependencies ([#224](https://github.com/iceman3k/unifi-ddns/issues/224)) ([3da8d85](https://github.com/iceman3k/unifi-ddns/commit/3da8d85a20a9cd2cf2bda9782576d74f4596500f))
+
 ## [3.4.0](https://github.com/iceman3k/unifi-ddns/compare/v3.3.1...v3.4.0) (2026-04-14)
 
 
